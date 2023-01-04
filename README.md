@@ -1,1 +1,0 @@
-# Trabalho-Reconhecimento-de-Voz
